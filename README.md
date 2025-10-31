@@ -3,6 +3,8 @@
 
 - The main goal of this dashboard is to analyze employee data and understand HR trends such as attrition, salary distribution, job roles, education background, and overall workforce profile.
 - This helps HR teams make better decisions and improve employee retention.
+  ## ✅ Data Source
+- [HR Analysis Data Set](https://raw.githubusercontent.com/hink001/HR-Analysis-Dasebord/refs/heads/main/HR_Analytics.csv)
   ## ✅ Key KPIs
 
 These KPIs give a quick view of the company’s HR status:
